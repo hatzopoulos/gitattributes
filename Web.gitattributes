@@ -146,6 +146,7 @@ Procfile       text
 *.as   binary
 *.asf  binary
 *.asx  binary
+*.f4v  binary
 *.fla  binary
 *.flv  binary
 *.m4v  binary
