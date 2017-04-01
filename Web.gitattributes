@@ -48,6 +48,14 @@
 *.xhtml  text
 
 ## DOCUMENTATION
+*.adoc       text
+*.csv        text
+*.doc        diff=astextplain
+*.DOC        diff=astextplain
+*.docx       diff=astextplain
+*.DOCX       diff=astextplain
+*.dot        diff=astextplain
+*.DOT        diff=astextplain
 *.markdown   text
 *.md         text
 *.mdwn       text
@@ -56,6 +64,13 @@
 *.mkdn       text
 *.mdtxt      text
 *.mdtext     text
+*.pdf        diff=astextplain
+*.PDF        diff=astextplain
+*.rtf        diff=astextplain
+*.RTF        diff=astextplain
+*.tab        text
+*.textile    text
+*.tsv        text
 *.txt        text
 AUTHORS      text
 CHANGELOG    text
