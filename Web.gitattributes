@@ -166,6 +166,7 @@ Procfile       text
 *.zip binary
 
 ## FONTS
+*.ttc   binary
 *.ttf   binary
 *.eot   binary
 *.otf   binary
