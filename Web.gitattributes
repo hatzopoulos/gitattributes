@@ -14,6 +14,10 @@
 ## This will handle all files NOT defined below.
 * text=auto
 
+# Recognize .tpl files as PHP in GitHub
+# https://github.com/github/linguist/blob/master/README.md
+*.tpl linguist-language=PHP
+
 ## SOURCE CODE
 *.bat    text eol=crlf
 *.coffee text
